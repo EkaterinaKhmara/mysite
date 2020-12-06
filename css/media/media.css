@@ -1,0 +1,193 @@
+@media (min-width: 768px) and (max-width: 979px) {
+
+    .main {
+        display: none;
+    }
+
+    .bg{
+        display: none;
+    }
+
+    #myVideo{
+        display: none;
+    }
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .mob_menu{
+        display: flex;
+    }
+
+    .bg_main{
+        display: flex;
+    }
+
+    .mob_menu .menu_m .language_m{
+        margin-left: 0px;
+    }
+
+    .mob_menu .menu_m a{
+        margin-left: 200px;
+    }
+
+    .mob_menu .menu_m .cv a{
+        margin-left: 200px;
+    }
+
+    .bg_main .one_m .big_logo{
+        width: 55%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .photo{
+        width: 50%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .text p{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .bg_main .three_m .center_three .boxes_skills {
+        flex-direction: row;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .bg_main .four_m .center_four .port_skill .port_skills {
+        flex-wrap: nowrap;
+    }
+
+    .bg_main .five_m .center_five .cont{
+        flex-direction: row;
+    }
+
+
+    .bg_main .five_m .center_five .social .social_icons li {
+        width: 50px;
+        display: inline-block;
+        margin: auto 10px;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+
+    .main {
+        display: none;
+    }
+
+    .bg{
+        display: none;
+    }
+
+    #myVideo{
+        display: none;
+    }
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .mob_menu{
+        display: flex;
+    }
+
+    .bg_main{
+        display: flex;
+    }
+
+    .mob_menu .menu_m .language_m{
+        margin-left: 0px;
+    }
+
+    .mob_menu .menu_m a{
+        margin-left: 140px;
+    }
+
+    .mob_menu .menu_m .cv a{
+        margin-left: 140px;
+    }
+
+    .bg_main .one_m .big_logo{
+        width: 75%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .photo{
+        width: 50%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .text p{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .bg_main .five_m .center_five .social .social_icons li {
+        width: 50px;
+        margin: auto 10px;
+    }
+
+
+}
+
+@media (max-width: 480px) {
+
+    .main {
+        display: none;
+    }
+
+    .bg{
+        display: none;
+    }
+
+    #myVideo{
+        display: none;
+    }
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .mob_menu{
+        display: flex;
+    }
+
+    .bg_main{
+        display: flex;
+    }
+
+    .mob_menu .menu_m .language_m{
+        margin-left: 0px;
+    }
+
+    .mob_menu .menu_m a{
+        margin-left: 80px;
+    }
+
+    .mob_menu .menu_m .cv a{
+        margin-left: 80px;
+    }
+
+    .bg_main .one_m .big_logo{
+        width: 95%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .photo{
+        width: 80%;
+    }
+
+    .bg_main .two_m .center_two .photo_text .text p{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+
+    .bg_main .five_m .center_five .social .social_icons li {
+        width: 100px;
+        margin: auto 10px;
+    }
+
+}

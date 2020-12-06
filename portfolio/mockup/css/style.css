@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+}
+
+.main .branding{
+    width: 100%;
+    height: auto;
+}
+
+.main .branding img{
+    width: 100%;
+    height: auto;
+}

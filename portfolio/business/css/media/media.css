@@ -1,0 +1,672 @@
+@media (min-width: 768px) and (max-width: 979px) {
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .respons_menu{
+        display: flex;
+    }
+
+    .home{
+        height: auto;
+        background: url("../../img/pic/mob_bg.jpg");
+        background-position: top center;
+    }
+
+    .home .mob_logo{
+        display: flex;
+    }
+
+    .home .main{
+        display: none;
+    }
+
+    .home .center{
+        height: auto;
+    }
+
+    .home .center .bg_center{
+        width: 100%;
+    }
+
+    .home .center .bg_center .center_motto{
+        width: 100%;
+        height: auto;
+        background: rgba(24, 24, 24, 0.65);
+    }
+
+    .home .center .bg_center .center_motto .motto1{
+        font-size: 20px;
+    }
+
+    .home .center .bg_center .center_motto .motto2{
+        font-size: 16px;
+    }
+
+    .home .center .bg_center .center_motto .button{
+        width: 100px;
+        height: 40px;
+    }
+
+    .home .center .bg_center .center_motto .button button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .services .s_center{
+        width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .services .s_center .boxes{
+        flex-wrap: wrap;
+    }
+
+    .services .s_center .boxes .box{
+        width: 50%;
+        height: auto;
+    }
+
+    .services .s_center .but button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .about .about_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .about .about_center .about_t{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .about .about_center .text_about{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 0px;
+    }
+
+    .about .about_center .text_about p{
+        padding-top:50px;
+        padding-bottom: 20px;
+    }
+
+    .about_boxes{
+        display: none;
+    }
+
+    .about_boxes_mob{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .empty{
+        display: none;
+    }
+
+    .empty .add_info .text_add_info{
+        display: none;
+    }
+
+    .empty_mob{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .partners .partners_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .partners .partners_center .partners_info{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_info h2{
+        padding-left: 30px;
+        padding-top: 80px;
+    }
+
+    .partners .partners_center .partners_info h1{
+        padding-left: 30px;
+    }
+
+    .partners .partners_center .partners_pic{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_pic .pic{
+        width: 45%;
+        height: auto;
+    }
+
+    .partners .partners_center .partners_pic .pic img{
+        width: 95%;
+        height: auto;
+    }
+
+    .contacts{
+        padding-bottom: 50px;
+    }
+
+    .contacts .cont_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .contacts .cont_center .cont{
+        width: 100%;
+    }
+
+    .contacts .cont_center .cont h2{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont h1{
+        margin-left: 30px;
+    }
+
+    .contacts .cont_center .cont p{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont .icons{
+        width: 55%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .contacts .cont_center .massage{
+        width: 92%;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 50px;
+    }
+
+    .contacts .cont_center .massage form textarea{
+        width: 100%;
+    }
+
+    .footer .f_center{
+        width: 100%;
+    }
+
+    .footer .f_center .text h1{
+        font-size: 36px;
+    }
+
+    .footer .f_center .logo img{
+        width: 30%;
+    }
+
+    .footer .f_center .menu {
+        width: 100%;
+    }
+
+    .footer .f_center .menu ul{
+        width: 100%;
+    }
+
+    .footer_bottom .text{
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .respons_menu{
+        display: flex;
+    }
+
+    .home{
+        height: auto;
+        background: url("../../img/pic/mob_bg.jpg");
+        background-position: top center;
+    }
+
+    .home .mob_logo{
+        display: flex;
+    }
+
+    .home .main{
+        display: none;
+    }
+
+    .home .center{
+        height: auto;
+    }
+
+    .home .center .bg_center{
+        width: 100%;
+    }
+
+    .home .center .bg_center .center_motto{
+        width: 100%;
+        height: auto;
+        background: rgba(24, 24, 24, 0.65);
+    }
+
+    .home .center .bg_center .center_motto .motto1{
+        font-size: 20px;
+    }
+
+    .home .center .bg_center .center_motto .motto2{
+        font-size: 16px;
+    }
+
+    .home .center .bg_center .center_motto .button{
+        width: 100px;
+        height: 40px;
+    }
+
+    .home .center .bg_center .center_motto .button button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .services .s_center{
+        width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .services .s_center .boxes{
+        flex-direction: column;
+    }
+
+    .services .s_center .boxes .box{
+        width: 100%;
+        height: auto;
+    }
+
+    .services .s_center .but button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .about .about_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .about .about_center .about_t{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .about .about_center .text_about{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 0px;
+    }
+
+    .about .about_center .text_about p{
+        padding-top:50px;
+        padding-bottom: 20px;
+    }
+
+    .about_boxes{
+        display: none;
+    }
+
+    .about_boxes_mob{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .empty{
+        display: none;
+    }
+
+    .empty .add_info .text_add_info{
+        display: none;
+    }
+
+    .empty_mob{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .partners .partners_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .partners .partners_center .partners_info{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_info h2{
+        padding-left: 30px;
+        padding-top: 80px;
+    }
+
+    .partners .partners_center .partners_info h1{
+        padding-left: 30px;
+    }
+
+    .partners .partners_center .partners_pic{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_pic .pic{
+        width: 45%;
+        height: auto;
+    }
+
+    .partners .partners_center .partners_pic .pic img{
+        width: 95%;
+        height: auto;
+    }
+
+    .contacts{
+        padding-bottom: 50px;
+    }
+
+    .contacts .cont_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .contacts .cont_center .cont{
+        width: 100%;
+    }
+
+    .contacts .cont_center .cont h2{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont h1{
+        margin-left: 30px;
+    }
+
+    .contacts .cont_center .cont p{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont .icons{
+        width: 95%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .contacts .cont_center .massage{
+        width: 83%;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 50px;
+    }
+
+    .contacts .cont_center .massage form textarea{
+        width: 100%;
+    }
+
+    .footer .f_center{
+        width: 100%;
+    }
+
+    .footer .f_center .text h1{
+        font-size: 26px;
+    }
+
+    .footer .f_center .logo img{
+        width: 45%;
+    }
+
+    .footer .f_center .menu {
+        width: 100%;
+    }
+
+    .footer .f_center .menu ul{
+        width: 100%;
+    }
+
+    .footer_bottom .text{
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    .burger_menu{
+        display: flex;
+    }
+
+    .respons_menu{
+        display: flex;
+    }
+
+    .home{
+        height: auto;
+        background: url("../../img/pic/mob_bg.jpg");
+        background-position: top center;
+    }
+
+    .home .mob_logo{
+        display: flex;
+    }
+
+    .home .main{
+        display: none;
+    }
+
+    .home .center{
+        height: auto;
+    }
+
+    .home .center .bg_center{
+        width: 100%;
+    }
+
+    .home .center .bg_center .center_motto{
+        width: 100%;
+        height: auto;
+        background: rgba(24, 24, 24, 0.65);
+    }
+
+    .home .center .bg_center .center_motto .motto1{
+        font-size: 20px;
+    }
+
+    .home .center .bg_center .center_motto .motto2{
+        font-size: 16px;
+    }
+
+    .home .center .bg_center .center_motto .button{
+        width: 100px;
+        height: 40px;
+    }
+
+    .home .center .bg_center .center_motto .button button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .services .s_center{
+        width: 100%;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .services .s_center .boxes{
+        flex-direction: column;
+    }
+
+    .services .s_center .boxes .box{
+        width: 100%;
+        height: auto;
+    }
+
+    .services .s_center .but button{
+        width: 100px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .about .about_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .about .about_center .about_t{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .about .about_center .text_about{
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 0px;
+    }
+
+    .about .about_center .text_about p{
+        padding-top:50px;
+        padding-bottom: 20px;
+    }
+
+    .about_boxes{
+        display: none;
+    }
+
+    .about_boxes_mob{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .empty{
+        display: none;
+    }
+
+    .empty .add_info .text_add_info{
+        display: none;
+    }
+
+    .empty_mob{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .partners .partners_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .partners .partners_center .partners_info{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_info h2{
+        padding-left: 30px;
+        padding-top: 80px;
+    }
+
+    .partners .partners_center .partners_info h1{
+        padding-left: 30px;
+    }
+
+    .partners .partners_center .partners_pic{
+        width: 100%;
+    }
+
+    .partners .partners_center .partners_pic .pic{
+        width: 45%;
+        height: auto;
+    }
+
+    .partners .partners_center .partners_pic .pic img{
+        width: 95%;
+        height: auto;
+    }
+
+    .contacts{
+        padding-bottom: 50px;
+    }
+
+    .contacts .cont_center{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .contacts .cont_center .cont{
+        width: 100%;
+    }
+
+    .contacts .cont_center .cont h2{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont h1{
+        margin-left: 30px;
+    }
+
+    .contacts .cont_center .cont p{
+        padding-left: 30px;
+    }
+
+    .contacts .cont_center .cont .icons{
+        width: 95%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .contacts .cont_center .massage{
+        width: 83%;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 50px;
+    }
+
+    .contacts .cont_center .massage form textarea{
+        width: 100%;
+    }
+
+    .footer .f_center{
+        width: 100%;
+    }
+
+    .footer .f_center .text h1{
+        font-size: 26px;
+    }
+
+    .footer .f_center .logo img{
+        width: 45%;
+    }
+
+    .footer .f_center .menu {
+        width: 100%;
+    }
+
+    .footer .f_center .menu ul{
+        width: 100%;
+    }
+
+    .footer_bottom .text{
+        width: 100%;
+    }
+
+}
